@@ -1,11 +1,3 @@
-# 
-   _____ __                                        ____        __       __
-  / ___// /_  ____ _  __  ______ _____ _____      / __ \____ _/ /____  / /
-  \__ \/ __ \/ __ `/ / / / / __ `/ __ `/ __ \    / /_/ / __ `/ __/ _ \/ /
- ___/ / / / / /_/ / /_/ / /_/ / /_/ / / / / /   / ____/ /_/ / /_/  __/ /
-/____/_/ /_/\__,_/\__, /\__,_/\__,_/_/ /_/ /   /_/    \__,_/\__/\___/_/
-                  /____/
-
 👋 **Hello, World! I'm Shayaan Patel**
 
 I am an AI Automation Developer and student of Computer Applications and Economics based in Pune, India. I specialize in building agentic AI workflows that bridge the gap between complex LLM capabilities and practical, real-world solutions. 
