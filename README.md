@@ -39,12 +39,6 @@ The custom frontend interface built specifically for the AeroIQ Flight Agent. De
 
 ---
 
-### 📈 GitHub Stats
-
-![Shayaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShayaanPatel&show_icons=true&theme=radium)
-
----
-
 ### 🤝 Let's Connect
  * My E-Mail :- shayaan.patel001@gmail.com
 
