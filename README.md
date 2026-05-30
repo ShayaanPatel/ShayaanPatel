@@ -1,6 +1,6 @@
 👋 **Hello, World! I'm Shayaan Patel**
 
-I am an AI Automation Developer and student of Computer Applications and Economics based in Pune, India. I specialize in building agentic AI workflows that bridge the gap between complex LLM capabilities and practical, real-world solutions. 
+I am an AI Automation Developer and a student based in Pune, Maharashtra, India. I specialize in building agentic AI workflows that bridge the gap between complex LLM capabilities and practical, real-world solutions. 
 
 My primary focus is on self-hosted infrastructure, local LLM orchestration, and creating intelligent, API-driven systems that eliminate Repititive tasks & Buy back your Time.
 
